@@ -2,7 +2,7 @@ package Arrays;
 
 // Question : Given an array Arr of size N, print second largest distinct element from an array.
 
-// NOTE :: There must be a main method which drives the code and calls print2largest method.
+// NOTE :: There must be a main method which drives the code and calls print2largest 
 
 public class SecondLargestElement {
 	int print2largest(int arr[], int n) {
