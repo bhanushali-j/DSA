@@ -1,4 +1,4 @@
-package Arrays;
+package arrays;
 
 /*Q : given array nums with n integers, your task is to check if it could become non-decreasing by 
 	 modifying at most one element.
